@@ -1,0 +1,6 @@
+{
+  //this is the nmae of the image and the description  and also the ipfs of image that i stored on pinata 
+  "name": "0",
+  "description": "A mystical forest scene with towering ancient trees, glowing mushrooms, and ethereal creatures hidden in the foliage. What magical beings might dwell in this enchanting realm?",
+  "image": "ipfs://QmYyaroTxXjBcDuGnuLkZwx97VoEKzXPstHNR4w6nYYH5M/img1.jpg"
+}
