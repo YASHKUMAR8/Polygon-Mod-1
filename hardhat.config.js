@@ -12,8 +12,8 @@ module.exports = {
     ],
   },
   networks: {
-    //aded network mumbai and sepolia
-    mumbai: {
+    //aded network amoy and sepolia
+    amoy: {
       url: "https://rpc-amoy.polygon.technology",
       accounts: [
         "b1f1d292c5a89cb5437ed5e9e93a66d972d7afcc217c6172f07d3fe7d79f6a92",
